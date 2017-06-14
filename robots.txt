@@ -1,0 +1,3 @@
+User-agent: *
+allow:/
+sitemap: http://quran.islam-db.com/sitemaps/sitemap.xml
